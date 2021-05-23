@@ -17,6 +17,8 @@ const defaultOptions = {
   profilesFolder: path.join(__dirname, '../')
 };
 
+
+//Hello there - General Kenobi
 class Bot extends EventEmitter {
   public client: any;
   public connectionStatus = ConnectionStatus.NOT_STARTED;
