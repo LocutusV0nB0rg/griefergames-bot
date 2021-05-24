@@ -1,6 +1,6 @@
 {
   "name": "griefergames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily create bots optimized for GrieferGames.net",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -8,13 +8,13 @@
     "prepare": "cross-env NODE_ENV=production npm run build",
     "build": "tsc"
   },
-  "homepage": "https://github.com/Newspicel/griefergames-bot#readme",
+  "homepage": "https://github.com/LocutusV0nB0rg/griefergames-bot#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Newspicel/griefergames-bot.git"
+    "url": "git+https://github.com/LocutusV0nB0rg/griefergames-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Newspicel/griefergames-bot/issues"
+    "url": "https://github.com/LocutusV0nB0rg/griefergames-bot/issues"
   },
   "keywords": [
     "bot",
@@ -22,7 +22,7 @@
     "minecraft",
     "griefergames"
   ],
-  "author": "DerJP <dev@derjp.de>",
+  "author": "DerJP <dev@derjp.de>, Newspicel, LocutusV0nB0rg",
   "license": "MIT",
   "dependencies": {
     "minecraft-protocol": "git+https://github.com/Neocraftr/node-minecraft-protocol.git",
